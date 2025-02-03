@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Calculadora Simples em Java 💻✨
 ## 📖 Descrição do Projeto
 Este é um projeto pessoal desenvolvido para aprimorar habilidades em Java. É uma calculadora simples e funcional desenvolvida em Java! 
@@ -62,7 +61,4 @@ Adoro ideias novas! 🧠💡
 
 *Este projeto foi desenvolvido 
 por Maeli Palharini e está disponível para uso livre e contribuições. 💖✨*
-=======
-# Calculadora_JAVA
-Este é um projeto pessoal desenvolvido para aprimorar habilidades em Java. É uma calculadora simples e funcional desenvolvida em Java!  🚀 Ela permite realizar operações matemáticas básicas de forma fácil e prática, utilizando um menu interativo. Seja para somar, subtrair, multiplicar ou dividir,  esta calculadora está pronta para ajudar.
->>>>>>> 846118fa1951fe4de004ebea5f70792e5ca9915d
+
